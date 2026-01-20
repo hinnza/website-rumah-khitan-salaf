@@ -25,5 +25,5 @@ Aplikasi berbasis web untuk profil klinik dan manajemen kotak saran pelanggan, d
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/USERNAME_KAMU/rumah-khitan-salaf.git](https://github.com/USERNAME_KAMU/rumah-khitan-salaf.git)
-   cd rumah-khitan-salaf
+   git clone [https://github.com/hinnza/website-rumah-khitan-salaf.git](https://github.com/hinnza/website-rumah-khitan-salaf.git)
+   cd website-rumah-khitan-salaf
